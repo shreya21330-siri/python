@@ -1,0 +1,9 @@
+# a={1,2,3}
+# b={3,2,6,7}
+# c={8,9,2}
+# print((a-b-c|(b-a-c)|(c-a-b)))
+# print((a&b)|(b&c)|(c&a))
+# print(a&b&c)
+# print(a|b|c)
+# print(a-(b|c))
+
